@@ -4614,7 +4614,7 @@ style='opacity:0.6;' >
   <text x='41' y='128'><tspan style='font-size:32px;font-weight:bold;'>GNU/Linux Distribution Timeline</tspan></text>
   <text x='41' y='151'><tspan style='font-size:16px;'>Version 12.10 Horizon</tspan></text>
   <text x='41' y='171'><tspan style='font-size:16px;'></tspan></text>
-  <text x='41' y='191'><tspan style='font-size:16px;'><a xlink:href='http://futurist.se/gldt'>A. Lundqvist, D. Rodic</a>, A. Tian - <tspan style='font-weight:bold'>github.com/allidylls/gldt</tspan></tspan></text>
+  <text x='41' y='191'><tspan style='font-size:16px;'>A. Lundqvist, D. Rodic, A. Tian - <tspan style='font-weight:bold'>github.com/allidylls/gldt</tspan></tspan></text>
   <text x='41' y='211'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
 </g>
 
